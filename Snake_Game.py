@@ -1,7 +1,7 @@
 """
 This code has been generated using OpenAI LLM model gpt3.5
 The coding language is Python
-v1
+v1 deleted
 """
 
 import pygame
