@@ -1,3 +1,5 @@
+# improved version speed adjusted
+
 import pygame
 import random
 
